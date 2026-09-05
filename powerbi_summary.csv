@@ -1,0 +1,11 @@
+Metric,Value
+Total Revenue,2704806864.15
+Total Profit,813108194.0922552
+Potential Revenue Leak,421837230.10999995
+Payment Failure Loss,217404323.25
+Return Revenue Loss,196889051.8
+Discount Leak,7543855.0600000005
+Payment Failures,4025.0
+Cancelled Orders,4474.0
+Returned Orders,3603.0
+High Value At Risk Customers,7999.0
